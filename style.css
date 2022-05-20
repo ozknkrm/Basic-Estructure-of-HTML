@@ -1,0 +1,38 @@
+body{
+    background: lightgray;
+    font-family: serif;
+    margin: 20px auto;
+    width: 600px;
+    
+}
+img{
+    margin-top: 30px;
+    width: 150px;
+    float: left;
+}
+h1{
+    text-align: center;
+}
+h2{
+    background: gray;
+    color: white;
+    padding: 10px;
+}
+p{
+    color: black;
+    text-align: center;
+    margin: 25px;
+}
+section{
+    display: inline-block;
+}
+.primero{
+    text-align: justify;
+}
+.textred{
+    color: red;
+    font-style: italic;
+}
+.textwhite{
+    background-color: white;
+}
